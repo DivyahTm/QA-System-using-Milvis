@@ -1,0 +1,9 @@
+# Ignore Python cache files
+_pycache_
+
+# Ignore virtual environment
+.venv
+
+# Ignore volumes
+volumes
+docker-compose.yml

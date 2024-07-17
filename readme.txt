@@ -5,7 +5,7 @@ This project implements a Question Answering system for NVIDIA CUDA documentatio
 ## Setup Instructions
 
 1. Clone this repository:
-    git clone https://github.com/DivyahTm/nvidia-cuda-qa-system.git
+    git clone https://github.com/DivyahTm/QA-System-using-Milvis.git
     cd nvidia-cuda-qa-system
     
 2. Create a virtual environment and activate it:

@@ -1,6 +1,6 @@
 # NVIDIA CUDA Documentation QA System
 
-This project implements a Question Answering system for NVIDIA CUDA documentation using web crawling, vector databases, and natural language processing techniques.
+This project implements a Question Answering system for NVIDIA CUDA documentation using web crawling, vector databases, and natural language processing techniques.This QA System uses NVIDIA CUDA documentation, LangChain, Milvus (HNSW),BM25, and SentenceTransformers for hybrid search and reranking.For LLM,Have Used openai-community/gpt2-large From Hugging Face Making the llm open source and changeable.
 
 ## Setup Instructions
 
